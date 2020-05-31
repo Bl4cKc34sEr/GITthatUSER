@@ -5,8 +5,9 @@
 
 This Git Repo. can be usd to Download/Clone all the Repositories of a Github User.
 
-USAGE: GTU.py -u "USERNAME" -p "PASSWORD" -t "TARGET USERNAME"
+USAGE: GTU.py -u USERNAME -p PASSWORD -d DEST -t TARGET
   
 USERNAME = Your Username
 PASSWORD = Your Password
+DESTINATION = Path to save the Clone Repositories.
 TARGET USERNAME = Username you want to Clone repos of.
