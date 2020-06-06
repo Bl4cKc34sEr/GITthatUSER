@@ -3,14 +3,14 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![GitHub followers](https://img.shields.io/github/followers/Bl4cKc34sEr.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Bl4cKc34sEr?tab=followers)
 
-This Git Repo. can be usd to Download/Clone all the Repositories of a Github User.
+This Git Repository can be used to Download/Clone all the Repositories of a Github User.
 
-USAGE: gtu.py -u USERNAME -p PASSWORD -d DEST -t TARGET
+𝗨𝗦𝗔𝗚𝗘：gtu.py -u USERNAME -p PASSWORD -d DEST -t TARGET
   
-USERNAME = Your Username
+𝗨𝗦𝗘𝗥𝗡𝗔𝗠𝗘 = Your Username
 
-PASSWORD = Your Password
+𝗣𝗔𝗦𝗦𝗪𝗢𝗥𝗗 = Your Password
 
-DESTINATION = Path to save the Clone Repositories.
+𝗗𝗘𝗦𝗧 = Path to save the Clone Repositories.
 
-TARGET USERNAME = Username you want to Clone repos of.
+𝗧𝗔𝗥𝗚𝗘𝗧 = Username you want to Clone repos of.
