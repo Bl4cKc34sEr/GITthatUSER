@@ -59,7 +59,7 @@ def parse_args():
                                         'repositories to')
     parser.add_argument('-t', '--target', type=str, help='The user to download '
                                         'all repositories from. If ommitted, '
-                                        'username is used.')
+                                        'your username is used.')
 
     if len(sys.argv) <= 1:
         parser.print_help()
